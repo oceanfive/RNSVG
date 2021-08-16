@@ -1,0 +1,6 @@
+use_frameworks!
+target 'RNSVG_Tests' do
+  pod 'RNSVG', :path => '../'
+  
+  
+end
